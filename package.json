@@ -1,0 +1,27 @@
+{
+  "name": "itunes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "6.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlaiseRoberts/proxy-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlaiseRoberts/proxy-server/issues"
+  },
+  "homepage": "https://github.com/BlaiseRoberts/proxy-server#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "request": "^2.79.0"
+  }
+}
